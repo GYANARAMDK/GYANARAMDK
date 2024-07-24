@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mern full development at geeksforgeeks
 - 💞️ I’m looking to collaborate on web desing and software development
 - 📫 How to reach me gyanaramnitian@gmail.com
-- 😄 Pronouns: Achha thodi lagta hai yr 
+- 😄 Pronouns: KASAM SEEEE 
 - ⚡ Fun fact: There is not word BOOM
 
 <!---
