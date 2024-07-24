@@ -1,9 +1,15 @@
 - 👋 Hi, I’m @GYANARAMDK
+- <br>
 - 👀 I’m interested in web desining
+- <br>
 - 🌱 I’m currently learning mern full development at geeksforgeeks
-- 💞️ I’m looking to collaborate on web desing and software development
+- <br>
+- 💞️ I’m looking to collaborate on   web desing and software development
+- <br>
 - 📫 How to reach me gyanaramnitian@gmail.com
-- 😄 Pronouns: KASAM SEEEE 
+- <br>
+- 😄 Pronouns: KASAM SEEEE
+- <br>
 - ⚡ Fun fact: There is not word BOOM
 
 <!---
