@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on   web desing and software development
 - 📫 How to reach me gyanaramnitian@gmail.com
 - 😄 Pronouns: KASAM SEEEE
-- ⚡ Fun fact: There is not word BOOM
+- ⚡ Fun fact: There is no word like  BOOM
 
 <!---
 GYANARAMDK/GYANARAMDK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
