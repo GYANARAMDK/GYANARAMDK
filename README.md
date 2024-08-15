@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GYANARAMDK
-- 👀 I’m interested in web desining
+- 👀 I’m interested in web desining and full stack web development
 - 🌱 I’m currently learning mern full development at geeksforgeeks
 - 💞️ I’m looking to collaborate on   web desing and software development
 - 📫 How to reach me gyanaramnitian@gmail.com
